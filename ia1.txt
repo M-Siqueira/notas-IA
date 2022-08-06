@@ -1,0 +1,33 @@
+ia-> fraca ou forte.
+----------------------------
+ia-> simbolica
+	conexionista
+	evolucionista
+	estocastica
+----------------------------
+comport. inteligente
+	 conhecimento
+	motor interf/reciocinio
+	aprendizado reconhecimento de padroes
+----------------------------
+pensar humano
+agir humano
+----------------------------
+
+METODOS DE BUSCA
+	cegos/f.b
+	heuristicos
+		a*
+		guloso
+		s.e
+		alg.genet
+----------------------------
+----------------------------
+1° metodos de busca.
+	solução{
+		estados finais desconhecidos
+		restriçoes
+		
+1) problema das rainhas
+	matriz [5] [5]    int [0 ou 1]
+	qtdRainha 	int 0 a 5
